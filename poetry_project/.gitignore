@@ -6,3 +6,4 @@ __pycache__/
 temperature_24h.csv
 temperature_24h.png
 .DS_Store
+.poetry/
