@@ -3,7 +3,7 @@ name = "weather-lab"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "Your Name",email = "you@example.com"}
+    {name = "Петр Таранченко", email = "taranchenko052480@mail.ru"}
 ]
 requires-python = ">=3.12,<3.13"
 dependencies = [
